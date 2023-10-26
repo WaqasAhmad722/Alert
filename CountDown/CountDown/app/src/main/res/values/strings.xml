@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CountDown</string>
+    <string name="name">dummy</string>
+    <string name="wipe_text_message">*WARNING WHEN TAPING ON PANC\n BUTTON A COUNT-DOWN WILL START\n AND YOUR PHONE WILL WIPE ITSELP\n AFTER 5 SECOND YOU HAVE 5 SECOND\n TO CANCLE THE ACTION</string>
+</resources>
